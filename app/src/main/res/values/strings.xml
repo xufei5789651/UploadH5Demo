@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UploadH5Demo</string>
+    <string name="filepath">com.xf.uploadh5demo.fileprovider</string>
+
+</resources>
